@@ -10,4 +10,4 @@ There are several aspects that make Factorio a really interesting game to speedr
 One thing that sets it apart from many other games is that speedruns don't rely on glitches or tricks, but purely on optmizing the game mechanics in combination with a good map seed and tremenduous execution.
 And inside this triangle of necessary assets lies a variety of possible strategies to beat the game as fast as possbile.
 
-
+### Everyone can speedrun
